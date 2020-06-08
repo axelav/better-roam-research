@@ -1,4 +1,5 @@
 {
+  "name":"better-roam-research",
   "dependencies": {
     "sass": "^1.26.8"
   },
