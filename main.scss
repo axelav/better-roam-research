@@ -284,16 +284,17 @@ strong {
     #app {
         filter: invert(1) hue-rotate(180deg) !important;
     }
-    // img,
-    // div#buffer,
-    // .bp3-portal,
-    // .intercom-app,
-    // .loading-astrolabe,
-    // .bp3-dialog,
-    // .twitter-tweet,
-    // iframe {
-    //     filter: invert(1) hue-rotate(180deg) !important;
-    // }
+
+    img,
+    div#buffer,
+    .bp3-portal,
+    .intercom-app,
+    .loading-astrolabe,
+    .twitter-tweet,
+    iframe {
+        filter: invert(1) hue-rotate(180deg) !important;
+    }
+
     .roam-highlight {
         background-color: #e2cb47 !important;
     }
