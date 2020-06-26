@@ -55,10 +55,6 @@ body,
   margin-right: 12px;
   margin-left: 12px;
 }
-.roam-center > div:first-child {
-  padding-right: calc(0.5 * (100% - 820px)) !important;
-  padding-left: calc(0.5 * (100% - 820px)) !important;
-}
 
 .roam-topbar {
   background: var(--main-background-color) !important;

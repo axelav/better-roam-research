@@ -55,10 +55,6 @@ body,
     background: var(--body-background-color) !important;
     margin-right: 12px;
     margin-left: 12px;
-    > div:first-child {
-        padding-right: calc(0.5 * (100% - 820px)) !important;
-        padding-left: calc(0.5 * (100% - 820px)) !important;
-    }
 }
 
 // .roam-article {
