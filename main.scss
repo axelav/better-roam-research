@@ -1,5 +1,5 @@
 :root {
-    --font-size: 15.5px;
+    --font-size: 1rem;
     --border-color: rgba(0, 0, 0, 0.08);
     --subtle-border-color: rgba(0, 0, 0, 0.05);
     --main-background-color: hsl(210, 9%, 98%);
@@ -89,7 +89,7 @@ body,
     transition: none !important;
     overflow: hidden !important;
     h1 {
-        font-size: 18px !important;
+        font-size: 1.2rem !important;
     }
     #roam-right-sidebar-content {
         > div[style] {
@@ -116,24 +116,22 @@ span.checkmark {
 .rm-level1 {
     div,
     textarea {
-        font-size: 22px !important;
-        line-height: 1.5 !important;
+        font-weight: 700 !important;
+        font-size: 1.8rem !important;
     }
 }
 
 .rm-level2 {
     div,
     textarea {
-        font-size: 20px !important;
-        line-height: 1.5 !important;
+        font-size: 1.4rem !important;
     }
 }
 
 .rm-level3 {
     div,
     textarea {
-        font-size: 18px !important;
-        line-height: 1.5 !important;
+        font-size: 1.2rem !important;
     }
 }
 
@@ -165,7 +163,7 @@ span.checkmark {
 }
 
 .CodeMirror {
-    font-size: 13px !important;
+    font-size: 1rem !important;
 }
 
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover,
@@ -191,7 +189,7 @@ span.checkmark {
     .page,
 .bp3-minimal > div {
     color: hsl(0, 0%, 40%) !important;
-    font-size: 13px !important;
+    font-size: 0.875rem !important;
 }
 
 .roam-sidebar-content {
@@ -211,7 +209,7 @@ span.checkmark {
     }
     .flex-h-box,
     .flex-h-box span {
-        font-size: 13px !important;
+        font-size: 0.875rem !important;
         opacity: 0.6 !important;
     }
 }
@@ -240,7 +238,6 @@ span.checkmark {
 }
 
 .roam-article > div > div h1 {
-    font-size: 26px !important;
     font-weight: 700 !important;
     height: auto !important;
     line-height: 1.5 !important;
@@ -253,7 +250,7 @@ span.checkmark {
 }
 
 .roam-log-container .roam-log-preview h1 {
-    font-size: 22px !important;
+    font-size: 1.4rem !important;
     font-weight: 700 !important;
 }
 

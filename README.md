@@ -10,7 +10,7 @@ Got feedback? **[Say hi on Twitter](https://twitter.com/linuz90).**
 
 2. Create a `[[Better Roam Research]]` bullet point.
 
-3. Nest this code inside it: \```css @import url("https://linuz90.github.io/better-roam-research/src/css/main.css");```
+3. Nest this code inside it: \```css @import url("https://axelav.github.io/better-roam-research/src/css/main.css");```
 
 It should look like this:
 
